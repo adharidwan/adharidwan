@@ -1,9 +1,9 @@
 <div align="center">
   
-  # 👋 Welcome to Adha's Code Universe
+  # 👋 Welcome to Adha's Bullshittery
 
-  ### Backend Developer | Low-Level Programming Enthusiast | Security Researcher | Robotics Engineer
-  #### *Turning coffee into code and ideas into reality* ☕️
+  ### Backend | Low-Level Programming | Cybersecurity | Robotics
+  #### *I code for fun!* ☕️
 
   ![Profile Views](https://komarev.com/ghpvc/?username=adharidwan&color=blueviolet&style=for-the-badge)
 </div>
