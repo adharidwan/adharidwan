@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  ### Systems & Robotics
+  ### Robotics
   <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -63,12 +63,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adharidwan&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adharidwan&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
